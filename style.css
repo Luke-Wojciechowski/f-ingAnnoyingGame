@@ -1,0 +1,16 @@
+*{/* outline:red solid 1px; */}
+body{
+	margin:0;
+}
+ul{
+	padding: 0;
+	margin:0;
+}
+li{
+	display: inline-block;
+}
+li{
+	height:1vh;
+	width:1vw;
+	display: inline-block;
+}
