@@ -1,4 +1,4 @@
-
+alert('Try to find the rectangle')
 const items = document.getElementsByTagName('li');
 
 
@@ -16,7 +16,7 @@ itemsArray.forEach(item => {
 
 
 items[Math.floor(Math.random()*items.length)].addEventListener('click', function() {
-	alert('Wygrałeś')
+	alert('Win')
 });
 
 
